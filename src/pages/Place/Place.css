@@ -1,0 +1,27 @@
+
+.product {
+    border-radius: 15px;
+    width: 300px;
+    height: 350px;
+    margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.413);
+  }
+  
+  .product img {
+    width: 250px;
+  }
+  
+  .product .description {
+    text-align: center;
+  }
+  
+  .product:hover {
+    transition: 0.3s ease-in;
+    cursor: pointer;
+  }
+  

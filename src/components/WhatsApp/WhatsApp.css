@@ -1,0 +1,9 @@
+.bg-image1 {
+    position: fixed;
+    width: 10%;
+    size: 50rem;
+    bottom: 20px; /* Adjust this value to change the distance from the bottom */
+    right: 20px; /* Adjust this value to change the distance from the right */
+    z-index: 999; /* Adjust the z-index value as needed to make sure it's above other content */
+  }
+ 
